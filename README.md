@@ -1,4 +1,4 @@
-# Construindo Arquitetura de rede Virtual na Plataforma Microsoft Azure
+# Construindo Arquitetura de Rede Virtual na Plataforma Microsoft Azure
 
 ## OBJETIVO
 O objetivo principal do repositório é descrever de forma clara e simples como criar uma arquitetura de rede na
